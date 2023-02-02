@@ -25,7 +25,7 @@ registerHtml('/neosdorb4', 'step6.html');
 registerHtml('/39395', 'step7-8.html');
 registerHtml('/archive', 'file.zip', true);
 registerHtml('/jdnoenir', 'step9.html');
-registerHtml('/e1ernre85', 'step10.html');
+registerHtml('/eerre851n', 'step10.html');
 registerHtml('/vnsoec', 'step11.html');
 
 app.use(express.static(__dirname + '/public', {extensions: ['html']}));
