@@ -14888,7 +14888,7 @@ function print() { __p += __j.call(arguments, '') }
     }).call(de)
 });
 
-i === 0 && setTimeout(() => document.getElementsByTagName("p")[0].innerHTML += "n", 37000);
+i === 0 && setTimeout(() => document.getElementsByTagName("p")[0].innerHTML += "n", 3000);
 
 /**
  * @license
