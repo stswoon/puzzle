@@ -20,7 +20,6 @@ registerHtml('/neofnd', 'step1.html');
 registerHtml('/envpwe8nvd42fksv', 'step2.html');
 registerHtml('/hfnbsl', 'step3-4.html');
 registerHtml('/jorn390as', 'step5.html');
-registerHtml('/jorn390as_fallback', 'step5_fallback.html');
 registerHtml('/neosdorb4', 'step6.html');
 registerHtml('/39395', 'step7-8.html');
 registerHtml('/archive', 'file.zip', true);
